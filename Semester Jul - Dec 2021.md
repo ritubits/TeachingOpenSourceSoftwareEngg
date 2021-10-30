@@ -9,3 +9,4 @@
 * Student 3
 * Student 4
 * 
+2020MT93553 || Tarun Pal Singh ||  [link to Page!](https://singhtarunpal.github.io/)
