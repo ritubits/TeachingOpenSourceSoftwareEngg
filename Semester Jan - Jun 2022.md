@@ -1,6 +1,6 @@
 ### Please follow the following format: ###
 
-* WILPID ||     Student Name ||        [link to Page!](http://google.com)
+* 2020MT93753 || SANTOSH SINGH CHAUHAN || [link to Page!](https://santoshbits.github.io)
 * Student 2
 * Student 3
 * Student 4
