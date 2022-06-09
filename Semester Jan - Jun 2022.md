@@ -21,4 +21,4 @@
 * 2021MT93313 || Anand Anthony Francis || [link to Page!](https://anandanthonybits.github.io/)
 * 2020MT93705 ||     Roopika B S      || [link to Page!](https://roopikasrinivas.github.io/)
 * 2021MT93226 || Srividhya Gopal  ||     https://srividhyagopalnbits.github.io/
-
+* 2020mt93631   ||  Satyanarayan nanda  || https://satya-89.github.io/
