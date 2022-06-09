@@ -1,6 +1,6 @@
 ### Please follow the following format: ###
 * WILPID ||     Student Name ||        [link to Page!](http://google.com)
-* 2021mt93208 ||  Kartik Rajesh   ||  https://kartik70rajesh.github.io/
+* * 2021mt93208 ||  Kartik Rajesh   ||  https://kartik70rajesh.github.io/
 * 2020MT93502 || Kinshuk Lahiri || [Assignment 2](https://kinshuk-2020mt93502.github.io/)
 * 2020MT93713 || Rohit Varghese || [link to Page!](https://rohitvarghese96.github.io/)
 * 2021MT93275 || Mayur Mahabaleshwar Kumbhar || [Profile Page](https://themayurkumbhar.github.io/)
@@ -23,3 +23,5 @@
 * 2021MT93226 || Srividhya Gopal  ||     https://srividhyagopalnbits.github.io/
 * 2020mt93631   ||  Satyanarayan nanda  || https://satya-89.github.io/
 * 2021mt93045 ||  Siddhant Sankar Parida || https://2021mt93045.github.io/
+* 2021mt93043 || Nitin Negi || https://niitiinnegi.github.io/
+
