@@ -29,3 +29,4 @@
 * 2021mt93071 ||     Mahua Sarkar ||        [link to Page!](https://mahuasarkar.github.io/) 
 * 2020mt93634 || Sri Darshan S || [link to Page!](https://sridarshans.github.io/) 
 * 2020MT93636 || Himanshu Chaurishiya || https://himanshucbits.github.co.in/
+* 2020MT93590 || Mallari Pradeep Kumar || https://pradeepkumarmallari.github.io/profile/
