@@ -12,4 +12,5 @@
 * 2020mt93663	|| Amit Kumar Birla	||	https://amitbirla.github.io/
 * 2020MT93018 || Shraddha Athwani || [link to Page!](https://shraddhaathwani.github.io/)
 * 2020mt93730 || Dilsha Sajan || https://dilshasajan.github.io/
+* 2020mt93628 || Sarat Kumar Kotha || [ProfilePage](https://saratkotha.github.io/SaratKotha/)
 
