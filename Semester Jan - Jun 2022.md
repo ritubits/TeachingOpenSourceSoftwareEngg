@@ -28,3 +28,4 @@
 * 2021MT93311 ||     Rekha.B ||        [link to Page!](https://rekha091216.github.io/)
 * 2021mt93071 ||     Mahua Sarkar ||        [link to Page!](https://mahuasarkar.github.io/) 
 * 2020mt93634 || Sri Darshan S || [link to Page!](https://sridarshans.github.io/) 
+* 2020MT93636 || Himanshu Chaurishiya || https://himanshucbits.github.co.in/
