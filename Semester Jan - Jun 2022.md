@@ -5,4 +5,5 @@
 * 2020MT93713 || Rohit Varghese || [link to Page!](https://rohitvarghese96.github.io/)
 * 2021MT93275 || Mayur Mahabaleshwar Kumbhar || [Profile Page](https://themayurkumbhar.github.io/)
 * 2020mt93648 ||     Gullapalli Sri Vishnu ||        [link to Page!](https://srivishnu-g.github.io/)
+* 2021MT93048 || Piyush Shrivastava || [link to Page!](http://piyushshri.github.io)
 
