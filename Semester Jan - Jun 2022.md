@@ -33,4 +33,11 @@
 * 2020MT93562 ||    Sumana Saha      ||      https://github.com/sumanasahabits
 * 2020MT93753 || SANTOSH SINGH CHAUHAN || [link to Page!](https://santoshbits.github.io)
 * 2020MT93723 || Hari Narayanan || [link to Page!](https://pnhari.github.io/)
+* 2021MT93326 || Nirupam Kumar Sinha || [link to Page!](https://nirupambitspilani.github.io/)
+* 2021MT93013 || Bhushan Bapat || [Bhushan Bapat GitHub Profile Page](https://bhushanbapat.github.io/)
+* 2020mt93721 || Sachin Divakar || https://sachin-bits-2020.github.io/sachin-bits-2020.io/
+* 2020MT93728 || Shweta N K || https://Shwetavmupp.github.io/
+* 2020MT93609 || Uma Sankari || [link to Page!](https://umasankaribits.github.io/)
+* 2020mt93731 || Kush Bajpai || https://bajpaik.github.io/
 * 2021mt93084 || Alok Raj || [link to Page!] (https://2021mt93084.github.io/)
+
