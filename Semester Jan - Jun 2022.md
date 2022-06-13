@@ -41,4 +41,5 @@
 * 2020mt93731 || Kush Bajpai || https://bajpaik.github.io/
 * 2021mt93084 || Alok Raj || [link to Page!] (https://2021mt93084.github.io/)
 * 2021MT93269 || Kartik Wadehra || [link to Page!](https://censorcarnage.github.io/)
+* 2020MT93601 || Nischitha T S || [link to Page!] (https://nischithas96.github.io)
 
