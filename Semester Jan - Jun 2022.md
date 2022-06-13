@@ -38,3 +38,5 @@
 * 2020mt93721 || Sachin Divakar || https://sachin-bits-2020.github.io/sachin-bits-2020.io/
 * 2020MT93728 || Shweta N K || https://Shwetavmupp.github.io/
 * 2020MT93609 || Uma Sankari || [link to Page!](https://umasankaribits.github.io/)
+* 2020mt93731 || Kush Bajpai || https://bajpaik.github.io/
+
