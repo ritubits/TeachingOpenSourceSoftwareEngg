@@ -40,4 +40,5 @@
 * 2020MT93609 || Uma Sankari || [link to Page!](https://umasankaribits.github.io/)
 * 2020mt93731 || Kush Bajpai || https://bajpaik.github.io/
 * 2021mt93084 || Alok Raj || [link to Page!] (https://2021mt93084.github.io/)
+* 2021MT93269 || Kartik Wadehra || [link to Page!](https://censorcarnage.github.io/)
 
