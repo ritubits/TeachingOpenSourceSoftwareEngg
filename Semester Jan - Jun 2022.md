@@ -33,4 +33,6 @@
 * 2020MT93562 ||    Sumana Saha      ||      https://github.com/sumanasahabits
 * 2020MT93753 || SANTOSH SINGH CHAUHAN || [link to Page!](https://santoshbits.github.io)
 * 2020MT93723 || Hari Narayanan || [link to Page!](https://pnhari.github.io/)
+* 2021MT93326 || Nirupam Kumar Sinha || [link to Page!](https://nirupambitspilani.github.io/)
 * 2021MT93013 || Bhushan Bapat || [Bhushan Bapat GitHub Profile Page](https://bhushanbapat.github.io/)
+
