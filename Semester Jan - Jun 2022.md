@@ -45,5 +45,5 @@
 * 2021MT93010 || Prasun Aggarwal || [link to Page]](https://2021mt93010.github.io)
 * 2021MT93651 || AKHTAR MARIAM PARVEEN ASIF ISHRAT || [link to Page]](https://mariambits2021.github.io/)
 * 2021MT93323 || Himanshu Sisodiya || [link to Page](https://i-siso.github.io)
-* 2020MT93707 || Ayan Mondal || [link to Page!](https://ayanmondal7m.github.io/) 
+* 2020MT93707 || Ayan Mondal || [link to Page!](https://ayanmondal7m.github.io/)
 
