@@ -49,5 +49,6 @@
 * 2020MT93582 || Vivek Gopalan || [link to Page](https://vivekgopal-bits.github.io/)
 * 2021MT93574 || Tanya Chakravarty || [link to Page](https://tanya93574.github.io/)
 * 2020MT93707 || Ayan Mondal || [link to Page!](https://ayanmondal7m.github.io/)
+* 2020mt93521 || Syed Bilal Hussain || [link to Page]([https://i-siso.github.io](https://github.com/syedbilal2112))
 
 
