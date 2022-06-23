@@ -59,5 +59,5 @@
 * 2020mt93585 || Rajasekhar Kandalam | [link to Page!](https://rkandalam.github.io/)
 * 2020MT93583 || Sajith S V | [link to Page!](https://2020mt93583.github.io/)
 * 2021mt93066 || Venkanna Babu || https://venki25bits.github.io/
-
+* 2020MT93684 || Gagan Gupta || [link to Page!](https://gagangupta.xyz/)
 
